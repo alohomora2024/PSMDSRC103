@@ -17,8 +17,12 @@ for i in range(total_combinations):
     # For two variables
 
 # Main program - Get the propositional logic expression from the user
-expression = input("Enter the propositional logic expression (use letters A, B, C: ")
-
+expression = input("Enter the propositional logic expression: ")
+"""
+Note: Only the letters A, B, and C are allowed to be used.
+Sample input: not(A and B) or (A and C)
+All input must be small cases
+"""
 if variables == 2:
     print("A B f") 
     for A, B in combinations_list:

@@ -1,4 +1,4 @@
 Hello, ACF!
 Isn't this amazing?
 That we can create and write on text files
-using Python.
+using Python.and also by the programmer, of course.

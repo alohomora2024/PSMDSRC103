@@ -1,0 +1,11 @@
+Equation: 1x^2 + 5x + 6 = 0
+Roots: ((-2+0j), (-3+0j))
+
+Equation: 1x^2 + 2x + 1 = 0
+Roots: (-1.0,)
+
+Equation: 1x^2 + 2x + 3 = 0
+Roots: ((-2.414213562373095+0j), (0.41421356237309515-0j))
+
+Equation: 0x^2 + 2x + 3 = 0
+Invalid quadratic equation. 'a' should not be zero

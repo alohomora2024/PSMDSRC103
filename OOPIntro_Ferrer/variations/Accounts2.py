@@ -1,8 +1,8 @@
 """
-    Accounts.py
+    Accounts2.py
 """
 
-class Accounts():  # create the class
+class Accounts2():  # create the class
     def __init__(self):
         self.account_number = 0
         self.account_firstname = ""

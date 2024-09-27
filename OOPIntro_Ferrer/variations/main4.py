@@ -1,12 +1,12 @@
 
 
-from Accounts import Accounts
-
+import Accounts
+import ATM
 
 Account1 = Accounts.Accounts(
     account_number=123456, 
     account_firstname = "Royce", 
-    ccount_lastname = "Chua", 
+    account_lastname = "Chua", 
     current_balance = 1000, 
     address = "Silver Street Quezon City",
     email = "roycechua123@gmail.com"

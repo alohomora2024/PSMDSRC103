@@ -2,7 +2,7 @@
     Accounts3.py
 """
 
-class Accounts3():  # create the class
+class Accounts():  # create the class
     def __init__(self, account_number, account_firstname, account_lastname, current_balance, address, email):
         self.account_number = account_number
         self.account_firstname = account_firstname
@@ -16,3 +16,4 @@ class Accounts3():  # create the class
 
     def update_email(self, new_email):
         self.email = new_email
+
